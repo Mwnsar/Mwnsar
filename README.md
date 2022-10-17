@@ -1,5 +1,5 @@
 -Hi, I’m @Mwnsar
-- hear or backend development 
+- head of backend development 
 
 <!---
 Mwnsar/Mwnsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
